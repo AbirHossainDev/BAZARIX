@@ -1,34 +1,45 @@
-# 🛒 BAZARIX (বাজারিক্স)
+<div align="center">
 
-প্রয়োজনীয় নিত্যপণ্যের আজকের বাজারদর, দাম বৃদ্ধি-হ্রাস এবং ক্যাটাগরি অনুযায়ী পণ্যের মূল্য এক জায়গায় দেখার জন্য তৈরি একটি আধুনিক বাংলা ওয়েব অ্যাপ্লিকেশন।
+  <!-- টাইটেল ও ব্যানার -->
+  <h1>🛒 BAZARIX (বাজারিক্স)</h1>
+  <p><b>আজকের নিত্যপণ্যের বাজারদর ও বিশ্লেষণ প্ল্যাটফর্ম</b></p>
 
----
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<table>
+</div>
+
+<br>
+
+<table border="0">
 <tr>
-<td width="55%">
+<td width="60%" valign="top">
 
-### ✨ প্রধান ফিচারসমূহ
-* **লাইভ এপিআই ডাটা:** এপিআই (API) থেকে নিত্যপণ্যের লাইভ তথ্য ও ক্যাটাগরি প্রদর্শন।
-* **দরদামের আপডেট:** আজ কোন পণ্যের দাম বেড়েছে বা কমেছে—তার আলাদা হাইলাইটেড তালিকা।
-* **বাংলা সংখ্যা রূপান্তর:** বাংলা ভাষায় মূল্য, একক এবং শতকরা পরিবর্তন (Price change %) প্রদর্শন।
-* **ফিল্টারিং ও সর্টিং:** ক্যাটাগরি অনুযায়ী পণ্য ফিল্টার করা এবং দাম কম/বেশি অনুযায়ী সাজানোর সুবিধা।
-* **অথেন্টিকেশন ও সিকিউরিটি:** ইমেইল/পাসওয়ার্ড এবং সোশ্যাল লগইন সিস্টেমের মাধ্যমে নিরাপদ ইউজার অ্যাক্সেস।
-* **সুরক্ষিত পেজ:** লগইন করা ব্যবহারকারীদের জন্য পণ্যের বিস্তারিত বিবরণ ও বিশেষ ফিচার সুরক্ষিত রাখা।
-* **ইউজার প্রোফাইল:** ব্যবহারকারীর প্রোফাইল দেখা এবং নাম আপডেট করার সুবিধা।
-* **আধুনিক ইউআই/ইউএক্স:** দ্রুত লোডিংয়ের জন্য Loading Skeleton, নোটিফিকেশনের জন্য Toast Alert এবং কাস্টম 404 পেজ।
-* **ফুললি রেসপন্সিভ:** মোবাইল, ট্যাবলেট এবং ডেস্কটপ—যেকোনো স্ক্রিন সাইজে ব্যবহারবান্ধব ডিজাইন।
+### 🌟 প্রজেক্টের প্রধান ফিচারসমূহ
+
+* **📊 লাইভ বাজারদর:** এপিআই থেকে বাস্তব সময়ের নিত্যপণ্যের বাজারদর ও ক্যাটাগরি প্রদর্শন।
+* **📈 দাম বৃদ্ধি ও হ্রাস:** প্রতিদিন কোন পণ্যের দাম বাড়লো বা কমলো তার আলাদা তালিকা।
+* **🔢 বাংলা সাপোর্ট:** বাংলা ভাষায় মূল্য, একক এবং শতকরা পরিবর্তন (Price Change %) দেখার সুবিধা।
+* **🔍 ফিল্টার ও সর্টিং:** পণ্য ক্যাটাগরি অনুযায়ী ফিল্টার করা এবং দাম কম/বেশি অনুযায়ী সাজানো।
+* **🔐 অথেন্টিকেশন:** ইমেইল/পাসওয়ার্ড ও সোশ্যাল লগইনের (Better Auth) মাধ্যমে নিরাপদ সিস্টেম।
+* **🛡️ সুরক্ষিত ফিচার:** লগইন করা ব্যবহারকারীদের জন্য বিশেষ কিছু ফিচার ও বিস্তারিত পেজ লকড রাখা।
+* **👤 প্রোফাইল ম্যানেজমেন্ট:** ব্যবহারকারীর তথ্য দেখা ও আপডেট করার সুযোগ।
+* **⚡ আধুনিক ইউআই:** Fast Loading Skeleton, Toast Notification এবং Responsive Layout।
 
 </td>
-<td width="45%" align="center">
+<td width="40%" align="center" valign="middle">
 
-<!-- টেকনোলজি আইকনস -->
-<img src="https://skillicons.dev/icons?i=next,react,ts,tailwind,mongodb" width="300">
+<!-- অ্যানিমেটেড কোডিং ও টেকনোলজি স্ট্যাক GIF -->
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="100%" style="border-radius:10px;">
 
 <br><br>
 
-<!-- অ্যানিমেটেড কোডিং জিআইএফ -->
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380">
+### 🛠️ ব্যবহৃত টেকনোলজিস
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 </td>
 </tr>
@@ -36,19 +47,19 @@
 
 ---
 
-## 🧰 টেকনোলজি স্ট্যাক
-* **Framework:** Next.js (App Router)
-* **Language:** React + TypeScript
-* **Styling:** Tailwind CSS
-* **Icons:** Lucide React
-* **Notifications:** React Hot Toast
+## 🧰 টেকনোলজি স্ট্যাক ডিটেইলস
+
+* **Frontend Framework:** Next.js (App Router) + React
+* **Language:** TypeScript
+* **Styling & UI:** Tailwind CSS + Lucide Icons
+* **State & Notifications:** React Hot Toast
 * **Authentication & Database:** Better Auth + MongoDB
-* **Data Source:** BazarDor Products/Categories API
+* **API Source:** BazarDor Products/Categories API
 
 ---
 
 ## 🚀 লোকাল সেটআপ নির্দেশিকা
 
-১. **ডিপেন্ডেন্সি ইন্সটল করুন:**
+১. **প্যাকেজ ইন্সটল করুন:**
    ```bash
    npm install
